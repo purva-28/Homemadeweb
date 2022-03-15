@@ -1,0 +1,89 @@
+[
+    {
+        "id" : 1,
+        "img" : "images/product-1.jpg",
+        "name" : "Peppermint Foot Cream",
+        "rating" : 4.5,
+        "price" : 500
+    },
+    {
+        "id" : 2,
+        "img" : "images/product-2.jpg",
+        "name" : "Paani Phal Singhada Pickle",
+        "rating" : 4.5,
+        "price" : 300
+    },
+    {
+        "id" : 3,
+        "img" : "images/product-3.jpg",
+        "name" : "Apricot Kernel Oil",
+        "rating" : 4,
+        "price" : 460
+    },
+    {
+        "id" : 4,
+        "img" : "images/product-4.jpg",
+        "name" : "Curry Leave Powder",
+        "rating" : 4.5,
+        "price" : 500
+    },
+    {
+        "id" : 5,
+        "img" : "images/product-5.jpg",
+        "name" : "Sugar-free Protein Snicker Bar",
+        "rating" : 4.5,
+        "price" : 600
+    },
+    {
+        "id" : 6,
+        "img" : "images/product-6.jpg",
+        "name" : "Strawberry Cookie Cream Ice",
+        "rating" : 4,
+        "price" : 100
+    },
+    {
+        "id" : 7,
+        "img" : "images/product-7.jpg",
+        "name" : "Caramel Bread Popcorn",
+        "rating" : 4.5,
+        "price" : 200
+    },
+    {
+        "id" : 8,
+        "img" : "images/product-8.jpg",
+        "name" : "Banana Cookies",
+        "rating" : 4.5,
+        "price" : 380
+    },
+    
+       {
+        "id" : 9,
+        "img" : "images/product-9.jpg",
+        "name" : "Homemade Top",
+        "rating" : 4.5,
+        "price" : 500
+    },
+       {
+        "id" : 10,
+        "img" : "images/product-10.jpg",
+        "name" : "Decoration Bag",
+        "rating" : 5,
+        "price" : 300
+    },
+
+       {
+        "id" : 11,
+        "img" : "images/product-11.jpg",
+        "name" : "Bag",
+        "rating" : 4.5,
+        "price" : 350
+    },
+
+       {
+        "id" : 12,
+        "img" : "images/product-12.jpg",
+        "name" : "Jacket",
+        "rating" : 3.5,
+        "price" : 700
+    }
+]
